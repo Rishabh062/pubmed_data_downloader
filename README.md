@@ -8,5 +8,7 @@ Steps to run the file: -
 2. <code>pip install -r requirements.txt</code>
 3. In the terminal write <code>**python app.py**</code>
 
+![image](https://user-images.githubusercontent.com/57454462/234630957-ed646fc9-ee79-4343-b19f-1e9a8ac9e66c.png)
+
 
 Do :star: this repo 
